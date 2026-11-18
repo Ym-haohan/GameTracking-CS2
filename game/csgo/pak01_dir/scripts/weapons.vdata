@@ -1835,7 +1835,7 @@
 		}
 		m_nPrimaryAmmoType = "BULLET_PLAYER_9MM"
 		m_nSecondaryAmmoType = "BULLET_PLAYER_9MM"
-		m_nPrice = 1400
+		m_nPrice = 1350
 		m_nRecoilSeed = 61649
 		m_szAnimSkeleton = resource_name:"animation/skeletons/weapons/mp5sd.vnmskel"
 		m_vecMuzzlePos0 = [ 38.905, -5.166, -4.33 ]
