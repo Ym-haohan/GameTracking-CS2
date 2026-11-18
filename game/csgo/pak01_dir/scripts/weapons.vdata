@@ -1168,7 +1168,7 @@
 		m_flInaccuracyJumpApex = 0.0
 		m_flInaccuracyReload = 0.0
 		m_flDeployDuration = 1.0
-		m_flDisallowAttackAfterReloadStartDuration = 3.3
+		m_flDisallowAttackAfterReloadStartDuration = 3.0
 		m_nSpreadSeed = 0
 		m_flRecoveryTimeCrouch = 0.12
 		m_flRecoveryTimeStand = 0.25
@@ -1546,7 +1546,7 @@
 			smg = true
 		}
 		m_nKillAward = 300
-		m_nDamage = 26
+		m_nDamage = 24
 		m_iMaxClip1 = 50
 		m_iMaxClip2 = 0
 		m_iDefaultClip1 = -1
@@ -2148,7 +2148,7 @@
 			smg = true
 		}
 		m_nKillAward = 600
-		m_nDamage = 27
+		m_nDamage = 29
 		m_iMaxClip1 = 64
 		m_iMaxClip2 = 0
 		m_iDefaultClip1 = -1
@@ -2196,7 +2196,7 @@
 		m_bHasBurstMode = false
 		m_bIsRevolver = false
 		m_bCannotShootUnderwater = false
-		m_flCycleTime = 0.08
+		m_flCycleTime = 0.10
 		m_flCycleTimeWhenInBurstMode = 0.0
 		m_flTimeBetweenBurstShots = 0.0
 		m_flMaxSpeed = [ 240.0, 240.0 ]
@@ -2394,7 +2394,7 @@
 		m_bHasBurstMode = false
 		m_bIsRevolver = false
 		m_bCannotShootUnderwater = false
-		m_flCycleTime = 0.075
+		m_flCycleTime = 0.080
 		m_flCycleTimeWhenInBurstMode = 0.0
 		m_flTimeBetweenBurstShots = 0.0
 		m_flMaxSpeed = [ 150.0, 150.0 ]
@@ -4717,7 +4717,7 @@
 		}
 		m_nKillAward = 300
 		m_nDamage = 38
-		m_iMaxClip1 = 20
+		m_iMaxClip1 = 25
 		m_iMaxClip2 = 0
 		m_iDefaultClip1 = -1
 		m_iDefaultClip2 = -1
